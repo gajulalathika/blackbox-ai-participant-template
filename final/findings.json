@@ -5,12 +5,12 @@
   "claims": [
     {
       "type": "feature_effect",
-      "feature": "x1",
-      "direction": "increases",
+      "feature": "container_count",
+      "direction": "nochange",
       "strength": "strong",
-      "confidence": 0.0,
+      "confidence": 0.90,
       "evidence": {
-        "query_ids": [],
+        "query_ids": [55, 56],
         "summary": "Changing container_count from 60 to 50 did not change the score or decision."
       }
     }
