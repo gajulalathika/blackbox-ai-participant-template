@@ -11,7 +11,7 @@
       "confidence": 0.0,
       "evidence": {
         "query_ids": [],
-        "summary": "Replace this example claim with your own. Every claim needs evidence."
+        "summary": "Changing container_count from 60 to 50 did not change the score or decision."
       }
     }
   ]
